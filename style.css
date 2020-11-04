@@ -1,0 +1,21 @@
+body{
+    background-color: aliceblue;
+}
+header{
+    border-bottom: 1px solid black;
+}
+ul{
+    border: dotted black 1px;
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 1em,; font-family: '휴먼편지체';
+}
+#sample{
+    color: blue; text-shadow: blueviolet 3px 1px 3px;
+}
+footer{
+    background-color: orange; border-radius: 1em;
+}
